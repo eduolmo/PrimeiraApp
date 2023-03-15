@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppIncrivel</string>
+    <string name="btn_enviar">Enviar</string>
+    <string name="et_texto_hint">Digite alguma coisa aqui..</string>
+</resources>
